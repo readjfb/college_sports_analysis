@@ -11,6 +11,8 @@ The data was recievd in the form of a .xlsx file, which I converted to a .csv fi
 
 The data is imperfect at best, as it does not include secondary donations, increased recognition, and other factors that sports teams bring to their respective institutions. Additionally, many schools have team expenses exactly equal to their revenue, meaning that the reporting is likely not exactly accurate.
 
+https://ope.ed.gov/athletics/#/datafile/list
+
 ## Initial Findings
 Men's football and basketball are the two sports that most consistently bring in positive net revenue to universities. This is not surprising, as these are the two most popular sports in the NCAA. What was surprising, however, was that at a large number of schools, these two sports were the only ones that brought in positive net revenue, and were enough to offset the negative net profit of all other sports.
 
